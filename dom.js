@@ -1,4 +1,4 @@
-//How would you access the array that is the value of the children' key of the first element in the 'document' array?
+//How would you access the array that is the value of the 'children' key of the first element in the 'document' array?
 
 document[0].children
 
